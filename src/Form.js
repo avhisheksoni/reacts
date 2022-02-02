@@ -17,7 +17,7 @@ function From(){
                <select onChange={(e)=>setMovie(e.target.value)}>
                    <option value="kahani">kahani</option>
                    <option value="Race">Race</option>
-                   <option value="Diwarrrrrrr">Diwar</option>
+                   <option value="Diwarr">Diwar</option>
               </select><br/><br/>
               <input type="checkbox" onChange={(e)=>setTnc(e.target.checked)}/>Accept<br/><br/>
               <button>Submit</button>
