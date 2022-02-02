@@ -33,7 +33,7 @@ function Lloopmap(){
         <Table>
             <tbody>
         <tr>
-            <th>Name</th>
+            <th>Nameeee</th>
             <th>add</th>
             <th>phone</th>
         </tr>
