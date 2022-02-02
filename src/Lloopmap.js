@@ -16,6 +16,11 @@ function Lloopmap(){
     name:"parv",
     add:"saraf",
     mobile:2133
+} ,
+{
+    name:"parv",
+    add:"saraf",
+    mobile:2143
 } 
 
   ];
